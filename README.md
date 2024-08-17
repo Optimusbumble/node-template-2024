@@ -34,6 +34,7 @@
   - Then Configure default formatter in VSCode.
 
 - GitHub Actions Workflow
+
   - Workflows
     - Jobs
       - steps
@@ -50,3 +51,12 @@
     -- Install GitHub Actions extension and sign in.
     -- Create a folder .github/workflows/ and create your yml file.
     -- Create a pull request template checklist
+
+- Git
+  -- git init
+  -- git add .
+  -- git commit -m "Initial commit"
+  -- Create a repo in Github (Make sure you dont check the README file option)
+  -- git remote add origin <url>
+  -- git branch -M main
+  -- git push -u origin main
